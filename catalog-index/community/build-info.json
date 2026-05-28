@@ -1,6 +1,6 @@
 {
-  "source-repo": "https://github.com/christoph-jerolimov/rhdh-plugin-export-overlays/tree/main @ 6d3d3cde",
-  "build-date": "2026-05-27T12:55:53Z",
+  "source-repo": "https://github.com/christoph-jerolimov/rhdh-plugin-export-overlays/tree/main @ 8bfa60d5",
+  "build-date": "2026-05-28T21:45:50Z",
   "backstage-version": "1.49.4",
-  "rhdh-version": "1.10"
+  "rhdh-version": "1.11"
 }
